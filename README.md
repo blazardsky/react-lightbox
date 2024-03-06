@@ -1,2 +1,4 @@
-# react-lightbox
-A simple react-based ligthbox for photos
+# blz-lightbox
+A simple react-based ligthbox
+
+w.i.p.
